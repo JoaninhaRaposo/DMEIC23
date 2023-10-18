@@ -5,10 +5,7 @@ Adapation of Overcooked Demo where humans can play with trained AI agents.
 * [Installation](#installation)
 * [Usage](#usage)
 * [Dependencies](#dependencies)
-* [Using Pre-trained Agents](#using-pre-trained-agents)
-* [Updating Overcooked_ai](#updating-overcooked_ai)
 * [Configuration](#configuration)
-* [Legacy Code](#legacy-code)
 
 ## Installation
 
